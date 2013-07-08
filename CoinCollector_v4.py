@@ -23,7 +23,7 @@ pygame.init()
 screen = pygame.display.set_mode((640, 480))#640x480 resolution
 
 FRAMES_PER_SECOND = 30
-HEALTH = 10 #player's health
+HEALTH = 100 #player's health
 SCROLL_SPEED = 20 #movement speed of the background
 
 #y-coordinate of Lanes 1, 2, 3, and 4
